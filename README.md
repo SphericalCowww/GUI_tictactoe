@@ -1,4 +1,5 @@
-# GUI_tictactoe
+# Tictactoe with AI/Multi-player
+This is a tictactoe GUI. It's AI is written using minimax algorithm with alpha-beta pruning. 
 
 The code runs on python3 with additional packages:
 
