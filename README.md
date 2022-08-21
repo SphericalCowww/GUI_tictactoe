@@ -1,6 +1,10 @@
 # Tictactoe with AI/Multi-player
 This is a tictactoe GUI. It's AI is written using minimax algorithm with alpha-beta pruning. 
 
+<kbd>
+<img src="https://github.com/SphericalCowww/GUI_tictactoe/blob/main/display.png" width="381" height="425">
+</kbd>
+
 The code runs on python3 with additional packages:
 
     pip3 install tkinter
